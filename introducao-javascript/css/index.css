@@ -132,3 +132,31 @@ button[disabled=disabled], button:disabled {
 .campo-invalido{
 	border: 1px solid red;
 }
+<<<<<<< HEAD:introducao-javascript/css/index.css
+=======
+
+.paciente-invalido{
+	background-color: lightcoral;
+}
+
+#mensagens-erro{
+	color: red;
+}
+
+.fadeOut{
+	opacity: 0;
+	transition:0.5s;
+}
+
+#filtrar-tabela{
+	width: 200px;
+	height: 35px;
+	margin-bottom: 10px;
+}
+
+.invisivel{
+	display: none;
+}
+
+
+>>>>>>> 6e6fb73df9edde26ca71d4217f623216b0ffacc1:css/index.css
